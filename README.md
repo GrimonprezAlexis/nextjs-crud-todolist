@@ -37,12 +37,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## About this projet
 - Usage [`daisyui`](https://daisyui.com/components/table/)
 - Usage [`react-icons`](https://react-icons.github.io/react-icons/search?q=plus)
-> exemple (`import { AiOutlinePlus } from "react-icons/ai";`)
+> `import { AiOutlinePlus } from "react-icons/ai";`
 
 - Use Use Fake API JsonServer (folder data `todos.json`)
 - Add json-server to `package.json`
 > `"json-server": "json-server --watch data/todos.json --port 3001"`
 - `pnpm run json-server`
 - Resources : `http://localhost:3001/tasks`
-
-# nextjs-crud-todolist
