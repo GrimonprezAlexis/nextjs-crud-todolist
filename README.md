@@ -36,7 +36,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## About this projet
 - Usage [`daisyui`](https://daisyui.com/components/table/)
-- Usage [`react-icons`](https://react-icons.github.io/react-icons/search?q=plus), exemple (`import { AiOutlinePlus } from "react-icons/ai";`)
+- Usage [`react-icons`](https://react-icons.github.io/react-icons/search?q=plus)
+> exemple (`import { AiOutlinePlus } from "react-icons/ai";`)
 
 - Use Use Fake API JsonServer (folder data `todos.json`)
 - Add json-server to `package.json`

@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "buy milk with some orange"
+    },
+    {
+      "id": "2",
+      "text": "help my friend to find a girl"
+    },
+    {
+      "id": "4",
+      "text": "nouveau test"
+    },
+    {
+      "id": "e42b3062-98d2-4d49-9d7d-0340f064311c",
+      "text": "create new task"
+    },
+    {
+      "id": "c5c60c64-415d-4ec6-b45a-f302d64b4e80",
+      "text": "again new task"
+    },
+    {
+      "id": "2f3c1fff-4ebe-43af-a916-384919df0868",
+      "text": "walking with dog"
+    }
+  ]
+}
